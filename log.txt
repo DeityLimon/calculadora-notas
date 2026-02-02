@@ -1,0 +1,9 @@
+*   9445d6a Merge branch 'añadir-nota-extra'
+|\  
+| * ff1979d feat: permitir 4 notas en lugar de 3
+* | ab3a2dc feat: añadir formulario HTML para notas
+|/  
+* da1ccac feat: implementar calculo basico de media
+* 5760985 style: añadir estilos basicos
+* f22026e feat: añadir estructura html basica
+* e152454 Inicio: crear estructura del proyecto
